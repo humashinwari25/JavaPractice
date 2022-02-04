@@ -1,8 +1,8 @@
 package Inheritance.Employee;
 
-public class Tester extends Employee {
+public class Tester extends Employee {}
 
-
+/*
     public void testing() {
         System.out.println(jobTitle + " " + name + " is testing");
 
@@ -14,6 +14,8 @@ public class Tester extends Employee {
 
     }
 }
+
+ */
 
 /*
 2.2 Create the sub class of Employee named Tester:
